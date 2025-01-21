@@ -1,0 +1,43 @@
+---
+title: "Assignment 1: Introduction"
+author: "Jie Gao"
+output: pdf_document
+---
+
+## OVERVIEW
+
+This exercise accompanies the introductory material in Environmental Data Analytics. 
+
+## Directions
+1.  Rename this file `<FirstLast>_A01_Introduction.Rmd` (replacing `<FirstLast>` with your first and last name).
+2.  Change "Student Name" on line 3 (above) with your name.
+3.  Work through the steps, **creating code and output** that fulfill each instruction.
+4.  Be sure to **answer the questions** in this assignment document.
+5.  When you have completed the assignment, **Knit** the text and code into a single PDF file.
+6.  After Knitting, submit the completed exercise (PDF file) to the appropriate assignment section on Canvas.
+
+
+## 1) Discussion Questions
+Enter answers to the questions just below the >Answer: prompt.
+
+1. What are your previous experiences with data analytics, R, and Git? Include both formal and informal training.
+
+> Answer: For the formal training, I took ENVIRON 716 Energy Modelling from Dalia at my first semester of MEM at Nicholas school. At this cousre, I mainly used Excel and Python to build the energy modelling, and understand the basic concepts of energy data. The data about grid generally comes from EPA webiste. Moreover, I also took ENVIRON 717 Power Market from Dalia at mt second semester. At this course, I modeled and optimized the generation mix using an Economic Dispatch (ED) model across many different scenarios, incorporating nuclear, wind, solar PV, and storage technologies. The purpose is to use modelling to evaluate system reliability, and improve grid stability. During my undergraduate, I did some general training about Python, so I have a very brief understanding in Liner Regression, Recurrent Neural Network, LSTM (Long short-term memory) etc.. 
+
+2. Are there any components of the course about which you feel confident?
+
+> Answer: According to the first two classes about this course, I feel like the vibe of the class is so inclusive and the content is easily to understand. Even though I don't know R before taking this course, I still have confidence in keep pace with the class and engage in group disscussion with my classmates during the lab. 
+
+3. Are there any components of the course about which you feel apprehensive?
+
+> Answer: Though I have some training experiences in data analysis, especially using Python, I think the experience is still limited. So I am a little bit worried about the assignments. But I have planned to go to Office Hour if I have any problems about my assignments. And I think this would definitely help. 
+
+
+## 2) GitHub
+
+Provide a link below to your forked course repository in GitHub. Make sure you have pulled all recent changes from the course repository and that you have updated your course README file, committed those changes, and pushed them to your GitHub account. 
+
+> Answer: 
+
+## 3) Knitting
+When you have completed this document, click the `knit` button.This should produce a PDF copy of your markdown document. Submit this PDF to Canvas 
